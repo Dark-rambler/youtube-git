@@ -6,6 +6,7 @@
 -git checkout -- . ----> para restablecer el codigo al ultimo commit
 -git log     ----> para ver todo el listado de los commit
 -git commit --amend  -------> para editar el ultimo commit, se presiona "i"
--git checkout -b ramas-heroes
--git branch
+-git checkout -b ramas-heroes  -----> para crear y movernos a la rama "ramas heroes"
+-git branch  --------> para visualizar las ramas
+-git checkout master ------> para movernos a la rama "master"
 
