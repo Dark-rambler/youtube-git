@@ -12,4 +12,5 @@
 11. git checkout master --------------> para movernos a la rama "master"
 12. git branch -d ramas-heroes -------> para borrar una rama
 13. git push       -------------------> para desplegar cambios en github
+14. git commit -am "commit am agregado"  ----------------> para agregar y commitear en un solo comando
 
